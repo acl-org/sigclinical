@@ -1,0 +1,50 @@
+- year: 2006
+  groups:
+  - title: Elected Officers
+    members:
+    - title: President
+      name: Ayah Zirikly
+      affiliation: Johns Hopkins University/George Washington University
+      term: 2026
+    - title: President-elect
+      name: Asma Ben Abacha
+      affiliation: Microsoft
+      term: 2026
+    - title: Secretary
+      name: Steven Bethard
+      affiliation: University of Arizona
+      term: 2026-2027
+    - title: Secretary-elect
+      name: Steven Bedrick
+      affiliation: Oregon Health & Science University
+      term: 2026-2027
+  - title: Appointed Officers
+    members:
+    - title: CLPsych Workshop Officer
+      name: TBD
+      affiliation: TBD
+      term: 2026-2027
+    - title: Clinical NLP Workshop Officer
+      name: TBD
+      affiliation: TBD
+      term: 2026-2027
+    - title: Advisory Board Member
+      name: Rebecca Resnik
+      affiliation: R Resnik & Associates
+      term: 2026
+    - title: Advisory Board Member
+      name: Meg Mitchell
+      affiliation: Hugging Face
+      term: 2026-2027
+    - title: Advisory BoardMember
+      name: Philip Resnik
+      affiliation: University of Maryland
+      term: 2026-2028
+    - title: Advisory Board Member
+      name: Tristan Naumann
+      affiliation: Microsoft Research
+      term: 2026-2029
+    - title: Advisory Board Member
+      name: Danielle Bitterman
+      affiliation: Harvard University
+      term: 2026-2030
